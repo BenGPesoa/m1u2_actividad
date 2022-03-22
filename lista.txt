@@ -1,4 +1,5 @@
-casa
-dipper
-flor
-mabel
+casa.jpg
+dipper.jpg
+flor.jpg
+mabel.png
+.gitignore
